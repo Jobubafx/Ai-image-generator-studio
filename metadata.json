@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Generator Studio",
+  "description": "An AI-powered image generator that transforms your photos into professional, studio-quality outputs like cinematic posters, invitation cards, and more using Google's Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
